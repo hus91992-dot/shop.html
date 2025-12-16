@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(10, 5, 3);
+    font-size: 20px;
+    font-family: Tahoma, Arial, sans-serif;
+    direction: rtl;
+}
+h1, .eroo {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    height: 4rem;
+    padding: auto;
+}
+h1 {
+    box-shadow: 0 0 20px 0 rgba(211, 188, 145, 0.7);
+}
+h2 {
+    color: aliceblue;
+}
+.eroo {
+    font-size: 25px;
+    width: 60%;
+    margin: 20px auto;
+}
+
+div {
+    width: 70%;
+    max-width: 500px;
+    min-width: 300px;
+    margin-left:  auto;
+    margin-right: auto;
+    background-color: rgb(37, 37, 37);
+    padding: 20px ;
+}    
+article p {
+  text-align: center;
+  margin: 5px 0;
+}
+img {
+   display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+.top {
+    background-color: aliceblue;
+    margin: 1em auto;
+    padding: 10px;
+    border: 10px solid black;
+}
+footer {
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    margin: 2rem 0;
+}    
+a {
+    color: aliceblue;
+}
+a:hover {
+    color: aqua;
+}
+a:active {
+    color: brown;
+
+}
+label {
+    display: block;
+
+}
+input {
+    width: 100%;
+    margin: 10px 0;
+    background-color: rgb(29, 29, 48);
+    color: aliceblue;
+    height: 2rem;
+    font-size: 1em;
+}
+fieldset {
+    background: linear-gradient(rgb(48, 8, 42), rgb(151, 30, 135), rgb(112, 11, 99));
+    color: aliceblue;
+    border: none;
+    border-bottom: 4px solid rgba(45, 17, 73);
+    box-shadow: 0 0 20px 0 rgba(131, 56, 201, 0.8);
+    margin: 30px 0;
+}
+button {
+    display: block;
+    width: 50%;
+    font-size: 1.5rem;
+    background: linear-gradient(rgb(61, 6, 58), rgb(177, 30, 152), rgb(83, 15, 80));
+    color: black;
+    margin: 0 auto;
+    height: 2em;
+    border: rebeccapurple;
+    box-shadow: 0 0 20px 0 rgba(177, 30, 152, 6.0);
+}
+.hazem {
+    color: aliceblue;
+    box-shadow: 0 0 20px 0 wheat;
+    font-size: 3rem;
+}
